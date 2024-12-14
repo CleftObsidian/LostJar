@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f01694c742c37b4357f09a0e51dc59c328dd731639997297c1a21c955dd1cc9
-size 46
+# LostJar
+Simple UE4 Game Prototype Project
+
+항아리를 깨지지 않고 함정에 빠지지 않도록 목적지로 잘 움직여보는 게임
+
+[Demo Video](https://drive.google.com/file/d/1oVPbYkmUFGrxb878HcxkoZcFX0x_Ttyi/view?usp=sharing)
